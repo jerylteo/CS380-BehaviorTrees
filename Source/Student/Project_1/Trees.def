@@ -1,0 +1,6 @@
+#include "../Source/Student/Project_1/Trees/Example.bht"
+#include "../Source/Student/Project_1/Trees/Haunting.bht"
+#include "../Source/Student/Project_1/Trees/Human.bht"
+#include "../Source/Student/Project_1/Trees/Idle.bht"
+#include "../Source/Student/Project_1/Trees/Malfunction.bht"
+#include "../Source/Student/Project_1/Trees/RainingBalls.bht"
